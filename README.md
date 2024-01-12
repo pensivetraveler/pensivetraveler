@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [nowhere](nowhere)
 
-- ⚡ Fun fact **I want to sleep now**
+- ⚡ Fun fact **수업을 듣는 이순간에도 난 외주를 하고 있다. 먹고 살기 빡빡하다.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
