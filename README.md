@@ -4,12 +4,6 @@
 
 - 🌱 I’m currently learning **AI**
 
-- 🤝 I’m looking for help with **EDA**
-
-- 📝 I regularly write articles on [blog.pensivetraveler.com](blog.pensivetraveler.com)
-
-- 💬 Ask me about **php, vanilla javascript, sql**
-
 <h3 align="left">Connect with me: <a href="mailto:pensivetraveler@gmail.com">pensivetraveler@gmail.com</a> </h3>
 <p align="left">
 </p>
