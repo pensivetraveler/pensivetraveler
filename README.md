@@ -3,25 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pensivetraveler&label=Profile%20views&color=0e75b6&style=flat" alt="pensivetraveler" /> </p>
 
-- 🔭 I’m currently working on **Freelancer**
-
 - 🌱 I’m currently learning **AI**
 
-- 👯 I’m looking to collaborate on **not now**
-
 - 🤝 I’m looking for help with **EDA**
-
-- 👨‍💻 All of my projects are available at [nowhere](nowhere)
 
 - 📝 I regularly write articles on [blog.pensivetraveler.com](blog.pensivetraveler.com)
 
 - 💬 Ask me about **php, vanilla javascript, sql**
 
 - 📫 How to reach me **pensivetraveler@gmail.com**
-
-- 📄 Know about my experiences [nowhere](nowhere)
-
-- ⚡ Fun fact **수업을 듣는 이순간에도 난 외주를 하고 있다. 먹고 살기 빡빡하다.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
