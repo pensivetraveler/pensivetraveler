@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **php, vanilla javascript, sql**
 
-- 📫 How to reach me **pensivetraveler@gmail.com**
-
 <h3 align="left">Connect with me: <a href="mailto:pensivetraveler@gmail.com">pensivetraveler@gmail.com</a> </h3>
 <p align="left">
 </p>
