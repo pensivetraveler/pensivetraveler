@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kwang-Woo Lee</h1>
-<h3 align="center">정열적으로 먹고 살기 위해 고군분투하며 삽질이 특기인 한국인 개발자</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pensivetraveler&label=Profile%20views&color=0e75b6&style=flat" alt="pensivetraveler" /> </p>
 
