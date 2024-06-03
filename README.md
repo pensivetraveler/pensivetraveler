@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pensivetraveler&label=Profile%20views&color=0e75b6&style=flat" alt="pensivetraveler" /> </p>
 
-- 🌱 I’m currently learning **AI**
-
 <h3 align="left">Connect with me: <a href="mailto:pensivetraveler@gmail.com">pensivetraveler@gmail.com</a> </h3>
 <p align="left">
 </p>
